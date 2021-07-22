@@ -1,5 +1,5 @@
 # WYOOS
-Operating Systems Fall 2020 Final Project
+Operating Systems Fall 2020 Final Project ([Course Link](https://os-course.github.io/fall20/))
 
 ## Description
 
